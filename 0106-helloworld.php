@@ -1,5 +1,7 @@
 <?php
+
     echo "O meu primeiro código PHP!<strong>Olá Mundo!</strong>";
 
-    echo "Falta qualquer coisa um código e ainda não tenho ideia";
+    echo "Estou a experimentar como se faz GitHub e o meu repositório ao meu portátil</strong>";
+
 ?>
